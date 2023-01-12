@@ -45,3 +45,4 @@
           maximum: 255
         'Neos.Neos/Validation/RegularExpressionValidator':
           regularExpression: '/^[a-z][a-z0-9\-]*$/i'
+        'CodeQ\JumpMarkers\Validation\Validator\UniqueSectionIdValidator': []
